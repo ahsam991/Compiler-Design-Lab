@@ -1,3 +1,6 @@
+/*Queation IS : Write a program to detect whether keyword or not including number and identifier.
+N.B: We did it by separate programs. Today, using the user define function and complete task in a program.
+    */
 #include <iostream>
 
 using namespace std;
